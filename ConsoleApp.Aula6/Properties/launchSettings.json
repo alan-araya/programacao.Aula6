@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp.Aula6": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
